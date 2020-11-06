@@ -1,0 +1,21 @@
+Project name:
+
+
+Fonts: 
+roboto(r,b)
+Raleway(b,r,sb,md)
+Monoton (r)
+
+
+
+defult padding:
+
+for xl,lg,md screen{
+    padding: 90px 0 100px 0;
+} 
+for sm screem{
+    padding: 70px 0 80px 0;
+}
+for col screem{
+    padding: 50px 0 60px 0;
+}
